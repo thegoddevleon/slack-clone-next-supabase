@@ -16,7 +16,7 @@ docker run -p 3000:3000 next-slack-supabase
 
 When running the app and logging in with OAuth, you may encounter a production error. Social authentication providers like Google and GitHub require HTTPS for redirecting, but since our localhost only supports HTTP, you will need to manually change the URL from `https://localhost:3000` to `http://localhost:3000` to successfully authenticate.
 
-Here’s a demo:
+Here’s a demo: [Link](https://drive.google.com/drive/folders/1IXzDdGPAAMBQfGY5I3vb3oqYDTw8XG6f?usp=drive_link)
 
 <img src="https://s10.gifyu.com/images/So4ot.gif" />
 
@@ -27,7 +27,7 @@ Here’s a demo:
 - Users can invite others to their workspace.
 - Users can interact and communicate in real-time within channels.
 
-Here’s a demo:
+Here’s a demo: [Link](https://drive.google.com/drive/folders/1IXzDdGPAAMBQfGY5I3vb3oqYDTw8XG6f?usp=drive_link)
 
 <img src="https://s10.gifyu.com/images/So41z.gif" />
 
