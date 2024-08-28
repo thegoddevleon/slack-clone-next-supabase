@@ -18,7 +18,7 @@ When running the app and logging in with OAuth, you may encounter a production e
 
 Here’s a demo:
 
-<img src="https://raw.githubusercontent.com/thegoddevleon/slack-clone-next-supabase/main/public/images/http-error.gif" />
+<img src="https://s10.gifyu.com/images/So4ot.gif" />
 
 ## How It Works, Like Slack
 
@@ -29,7 +29,7 @@ Here’s a demo:
 
 Here’s a demo:
 
-<img src="https://raw.githubusercontent.com/thegoddevleon/slack-clone-next-supabase/main/public/images/realtime-demo.gif" />
+<img src="https://s10.gifyu.com/images/So41z.gif" />
 
 ## Running Tests
 
